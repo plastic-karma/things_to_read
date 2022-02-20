@@ -53,3 +53,10 @@ https://www.goodreads.com/book/show/54716655-kill-it-with-fire
 Summary: "Aging computer systems present complex technical challenges for organizations both large and small, and Kill It with Fire provides sound strategies for spearheading modernization efforts.". 
 
 Impression: Good book about how to advocate for  and execute refactoring, rearchitecturing and migrating.
+
+### The Programmer's Brain
+https://www.goodreads.com/book/show/57196550-the-programmer-s-brain
+
+Summary: "What every programmer needs to know about cognition"
+
+Impression: Really good and unique book about what happens in the brain during programming and how to make it easier.
