@@ -1,3 +1,5 @@
+Resources, I find myself recommending to people over and over again.
+
 # Things to read
 
 
