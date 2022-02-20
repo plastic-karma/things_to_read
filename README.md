@@ -62,3 +62,12 @@ https://www.goodreads.com/book/show/57196550-the-programmer-s-brain
 Summary: "What every programmer needs to know about cognition"
 
 Impression: Really good and unique book about what happens in the brain during programming and how to make it easier.
+
+# Things to watch
+
+## Technical
+
+### The economics of software design
+https://www.youtube.com/watch?v=TQ9rng6YFeY
+
+Impression: An amazing talk about why refactoring is _reducing the volatility in the marginal cost of features._
