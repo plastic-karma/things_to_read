@@ -31,7 +31,15 @@ https://www.goodreads.com/book/show/871728.The_Heart_Aroused
 
 Summary: "Preserving the soul of corporate America means reclaiming all of those human soul qualities sacrificed on the alter of organizational survival.". 
 
-Impression: The book is kind of out there, but connecting myth and poetry with corporate life was novel.
+Impression: The book is rather unique, but connecting myth and poetry with corporate life was novel.
+
+### Four Thousand Weeks: Time Management for Mortals
+https://www.goodreads.com/book/show/54785515-four-thousand-weeks
+
+Summary: "Drawing on the insights of both ancient and contemporary philosophers, psychologists, and spiritual teachers, Oliver Burkeman delivers an entertaining, humorous, practical, and ultimately profound guide to time and time management."
+
+Impression: Slow down. Do the important things. Have no fear of FOMO.
+
 
 ## Technical
 
